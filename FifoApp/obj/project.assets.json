@@ -110,11 +110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vasiliskr/7.C# .NET/SmallProjects/SmallProjects/SmallProjects.csproj",
-      "projectName": "SmallProjects",
-      "projectPath": "/Users/vasiliskr/7.C# .NET/SmallProjects/SmallProjects/SmallProjects.csproj",
+      "projectUniqueName": "/Users/vasiliskr/7.C# .NET/SmallProjects/FifoApp/FifoApp.csproj",
+      "projectName": "FifoApp",
+      "projectPath": "/Users/vasiliskr/7.C# .NET/SmallProjects/FifoApp/FifoApp.csproj",
       "packagesPath": "/Users/vasiliskr/.nuget/packages/",
-      "outputPath": "/Users/vasiliskr/7.C# .NET/SmallProjects/SmallProjects/obj/",
+      "outputPath": "/Users/vasiliskr/7.C# .NET/SmallProjects/FifoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vasiliskr/.nuget/NuGet/NuGet.Config"

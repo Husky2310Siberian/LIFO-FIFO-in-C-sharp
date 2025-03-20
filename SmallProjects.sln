@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallProjects", "SmallProjects\SmallProjects.csproj", "{4EA29360-1F5A-40F7-B5DC-19D76119571D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifoApp", "FifoApp\FifoApp.csproj", "{4EA29360-1F5A-40F7-B5DC-19D76119571D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifoApp", "LifoApp\LifoApp.csproj", "{13442251-153F-4301-8517-D75683891C58}"
 EndProject
