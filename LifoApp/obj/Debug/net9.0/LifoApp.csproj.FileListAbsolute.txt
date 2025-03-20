@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/bin/Debug/net9.0/LifoApp
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/bin/Debug/net9.0/LifoApp.deps.json
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/bin/Debug/net9.0/LifoApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/bin/Debug/net9.0/LifoApp.dll
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/bin/Debug/net9.0/LifoApp.pdb
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.dll
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/refint/LifoApp.dll
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.pdb
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/LifoApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/SmallProjects/LifoApp/obj/Debug/net9.0/ref/LifoApp.dll
