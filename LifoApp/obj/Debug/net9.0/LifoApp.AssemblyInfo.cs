@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d757fac7537471dcec2e166fbea24ba8d698bfd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e985f31fdbca8ed899d1b4416107ebd757b35fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

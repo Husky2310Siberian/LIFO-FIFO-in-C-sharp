@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 
 namespace LifoApp;
-
+/// <summary>
+///
+/// </summary>
 class Program
 {
     static void Main(string[] args)
